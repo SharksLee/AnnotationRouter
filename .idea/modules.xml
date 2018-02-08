@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnnatationRouter.iml" filepath="$PROJECT_DIR$/AnnatationRouter.iml" />
+      <module fileurl="file://C:\workspace\AnnatationRouter\annotationLib\annatationLib.iml" filepath="C:\workspace\AnnatationRouter\annotationLib\annatationLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotationLib/annotationLib.iml" filepath="$PROJECT_DIR$/annotationLib/annotationLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonLib/commonLib.iml" filepath="$PROJECT_DIR$/commonLib/commonLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginLib/loginLib.iml" filepath="$PROJECT_DIR$/loginLib/loginLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/processorLib/processorLib.iml" filepath="$PROJECT_DIR$/processorLib/processorLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/routerLib/routerLib.iml" filepath="$PROJECT_DIR$/routerLib/routerLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userLib/userLib.iml" filepath="$PROJECT_DIR$/userLib/userLib.iml" />
+    </modules>
+  </component>
+</project>
